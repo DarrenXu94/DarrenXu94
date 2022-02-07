@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/darren-xu-profile/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://darrenxu.com/"><img src="https://img.shields.io/badge/-Website-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Website" /></a>&nbsp;
+<a href="https://darrenxu.com/"><img src="https://img.shields.io/badge/-Website-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Website" /></a>&nbsp;
 
 </p>
 

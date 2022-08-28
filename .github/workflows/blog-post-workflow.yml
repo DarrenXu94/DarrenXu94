@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.darrenxu.com/rss.xml"
-          template: [$title - $date]($url)
-          date_format: "mmm d, yyyy"
+          template: "[$title - $date]($url)"
+          date_format: mmm d, yyyy

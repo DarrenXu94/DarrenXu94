@@ -21,4 +21,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Publishing my blog with Astro](https://blog.darrenxu.com/blog/astro-blog/)
+- [Using Notion to import bookmarks](https://blog.darrenxu.com/blog/notion-bookmarks/)
+- [Clean imports](https://blog.darrenxu.com/blog/clean-imports/)
+- [List relationships in SharePoint](https://blog.darrenxu.com/blog/list-relationships/)
+- [Using the Graph API](https://blog.darrenxu.com/blog/graph-api/)
 <!-- BLOG-POST-LIST:END -->

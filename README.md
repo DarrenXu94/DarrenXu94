@@ -19,5 +19,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Blog posts
+### Latest posts from [my blog](blog.darrenxu.com)
 <!-- BLOG-POST-LIST:START --><li><a href='https://blog.darrenxu.com/blog/astro-blog/' target='_blank'>Publishing my blog with Astro - Aug 22, 2022</a></li><li><a href='https://blog.darrenxu.com/blog/notion-bookmarks/' target='_blank'>Using Notion to import bookmarks - Sep 1, 2021</a></li><li><a href='https://blog.darrenxu.com/blog/clean-imports/' target='_blank'>Clean imports - Aug 20, 2021</a></li><li><a href='https://blog.darrenxu.com/blog/list-relationships/' target='_blank'>List relationships in SharePoint - Jul 28, 2021</a></li><li><a href='https://blog.darrenxu.com/blog/graph-api/' target='_blank'>Using the Graph API - Jul 3, 2021</a></li><!-- BLOG-POST-LIST:END -->

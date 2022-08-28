@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://blog.darrenxu.com/rss.xml"
           template: [$title - $date]($url)
-          date_format: mediumDate
+          date_format: "mmm d, yyyy"

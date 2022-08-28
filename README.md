@@ -20,10 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Publishing my blog with Astro](https://blog.darrenxu.com/blog/astro-blog/)
-- [Using Notion to import bookmarks](https://blog.darrenxu.com/blog/notion-bookmarks/)
-- [Clean imports](https://blog.darrenxu.com/blog/clean-imports/)
-- [List relationships in SharePoint](https://blog.darrenxu.com/blog/list-relationships/)
-- [Using the Graph API](https://blog.darrenxu.com/blog/graph-api/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[Publishing my blog with Astro - Mon Aug 22 2022 12:00 AM](https://blog.darrenxu.com/blog/astro-blog/)[Using Notion to import bookmarks - Wed Sep 01 2021 12:00 AM](https://blog.darrenxu.com/blog/notion-bookmarks/)[Clean imports - Fri Aug 20 2021 12:00 AM](https://blog.darrenxu.com/blog/clean-imports/)[List relationships in SharePoint - Wed Jul 28 2021 12:00 AM](https://blog.darrenxu.com/blog/list-relationships/)[Using the Graph API - Sat Jul 03 2021 12:00 AM](https://blog.darrenxu.com/blog/graph-api/)<!-- BLOG-POST-LIST:END -->

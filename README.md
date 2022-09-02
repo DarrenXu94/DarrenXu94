@@ -11,8 +11,8 @@
 **Hi there, :soccer: I'm Darren**
 - 🔭 I’m currently working on large applications with VueJS and .NET
 - 🌱 I’m currently learning Astro and other SPA, MPAs
-- :eyes: Check out my [website](darrenxu.com)
-- :newspaper: Visit my [blog](blog.darrenxu.com)
+- :eyes: Check out my [website](https://darrenxu.com)
+- :newspaper: Visit my [blog](https://blog.darrenxu.com)
 - :computer: Find me on [LinkedIn](https://www.linkedin.com/in/darren-xu-profile/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrenxu94&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)

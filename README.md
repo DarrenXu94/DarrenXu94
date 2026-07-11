@@ -15,7 +15,7 @@
 - :newspaper: Visit my [blog](https://blog.darrenxu.com)
 - :computer: Find me on [LinkedIn](https://www.linkedin.com/in/darren-xu-profile/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrenxu94&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=darrenxu94)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

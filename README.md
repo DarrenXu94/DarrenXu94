@@ -17,7 +17,7 @@
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=darrenxu94)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Latest posts from [my blog](https://blog.darrenxu.com)
 <!-- BLOG-POST-LIST:START --><li><a href='https://blog.darrenxu.com/blog/hash-routing/' target='_blank'>Hash routing breaks stuff - Jun 24, 2026</a></li><li><a href='https://blog.darrenxu.com/blog/buttons-vs-links/' target='_blank'>Buttons vs links - Jun 20, 2026</a></li><li><a href='https://blog.darrenxu.com/blog/disabled-states/' target='_blank'>Why do disabled states exist - Jun 10, 2026</a></li><li><a href='https://blog.darrenxu.com/blog/toasts/' target='_blank'>Toasts - Jun 3, 2026</a></li><li><a href='https://blog.darrenxu.com/blog/disclosure/' target='_blank'>Understanding disclosures, menus, comboboxes - May 30, 2026</a></li><!-- BLOG-POST-LIST:END -->
